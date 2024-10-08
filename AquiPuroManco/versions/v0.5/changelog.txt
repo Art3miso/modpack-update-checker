@@ -1,0 +1,30 @@
+-- Primera prueba de configuración
+
+Mods añadidos: 
+- Aether
+- Aether Delight
+- Aquaculture 2
+- Aquaculture Delight
+- Backpacked (Posiblemente se cambie)
+- Camera Mod
+- Corail Tombstone
+- Crabber's Delight
+- Dungeon Crawl
+- Farmer's Delight
+- Herobrine (no) Removido
+- Jade
+- Just Enough Items
+- Just Zoom
+- Minecraft Comes Alive
+- Oculus (para Shaders)
+- Oh The Biomes We've Gone
+- Oh The Trees You'll Grow
+- Player Revive
+- Scream from the Cold
+- SecurityCraft
+- Serene Seasons
+- The Knocker
+- The Man From The Void
+- Twilight Forest
+- Tough As Nails
+- Waystones
