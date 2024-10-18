@@ -11,5 +11,14 @@
       "releasedAt": 1728376385,
       "updateType": "minor"
     }
+    {
+      "id": "1.0",
+      "releasedAt": 1729221108,
+      "promotion": {
+        "downloads": {
+          "curseforge": "https://mediafilez.forgecdn.net/files/5820/928/modpack%20v2.1.zip",
+          {
+      "updateType": "major"
+    }
   ]
 }
