@@ -21,5 +21,15 @@
         }
       }
     }
+    {"id": "2.2",
+      "releasedAt": 1730019122,
+      "updateType": "major",
+      "promotion": {
+        "downloads": {
+          "curseforge": "https://mediafilez.forgecdn.net/files/5850/220/modpack%20v2.2.zip",
+          "generic": "https://download1526.mediafire.com/965pv96pufbgRv5yCVg-pTzdBaNm907B0Snj9zrUH-J03_FJspSnxPZC_uFtpkmsqcmz6ByEuxFdMkLTH9z1d9H2ceJaf-zCHJ-9rQcx-hGtR-WNuCztgi0PJXXOx45YRrBCIpR6xBQdLUUADvOlfQnj2ctoVKI_PRhtiqTmrONQ0A/5vst91ziktj5jz7/game.rar"
+        }
+      }
+    }
   ]
 }
