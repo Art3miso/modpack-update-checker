@@ -1,0 +1,10 @@
+Changelog:
+- Borrado Tough As Nails y dependencias
+- Deprecada la versión de Tough As Nails
+- Añadido un par de plugins
+--------------------------------------------------
+## Antes de entrar al servidor, lee esto!
+Minecraft Comes Alive es incompatible con las skins por alguna razón, por lo que encontramos una manera para que las skins se vean.
+  > Al entrar al servidor (probablemente tarde un poco más debido a los cambios entre cliente y servidor) entrarás al modo de chateo
+  > Escribe "/mca editor" y a mano derecha asegurense que el modelo no sea "Villager" u otro, debe ser "Player" o "Jugador".
+  > Si el problema persiste, pueden usar el comando "/skin clear" y deberá concretarse todo. En caso de que deseen usar otra skin, pueden escoger una del catálogo ámplio de Mojang. Por ejemplo: "/skin VegettaGaymer" cambia a la skin del vegetoide.
